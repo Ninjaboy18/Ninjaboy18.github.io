@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <th>Title</th>
+    <th>My first post</th>
     <td>Coding github</td>
     <th>Date</th>
     <th>07/11/16</th>
