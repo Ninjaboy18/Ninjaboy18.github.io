@@ -8,10 +8,10 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Coding github</td>
-    <td>Date</td>
-    <td>07/11/16</td>
+    <th>Date</th>
+    <th>07/11/16</th>
   </tr>
 </table>
 
