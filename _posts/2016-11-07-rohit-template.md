@@ -1,5 +1,5 @@
 ---
-title: Rohit first post
+title: rohit template
 layout: post
 author: rohit.srisakthivel
 permalink: /rohit-template/
@@ -8,10 +8,10 @@ published: true
 ---
 <table>
   <tr>
-    <th>My first post</th>
+    <td>Title</td>
     <td>Coding github</td>
-    <th>Date</th>
-    <th>07/11/16</th>
+    <td>Date</td>
+    <td>07/11/16</td>
   </tr>
 </table>
 
