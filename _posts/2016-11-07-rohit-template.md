@@ -1,5 +1,5 @@
 ---
-title: rohit template
+title: Coding github
 layout: post
 author: rohit.srisakthivel
 permalink: /rohit-template/
