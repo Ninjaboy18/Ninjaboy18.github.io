@@ -1,5 +1,5 @@
 ---
-title: Second Blog  
+title: A diffrent kind of lesson
 layout: post
 author: rohit.srisakthivel
 permalink: /second-blog--/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Writing blogs from raw</td>
+    <td>A different kind of lesson</td>
     <td>Date</td>
-    <td>07/11/16</td>
+    <td>9/1/17</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Learning to make a copy of a blog then change the code </td>
+    <td></td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Finish writing raw blog.</td>
+    <td></td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes </td>
+    <td></td>
   </tr>
 </table>
 
@@ -38,23 +38,22 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <td>Why it was different</td>
   </tr>
   <tr>
-    <td>I learned by observing the teacher's computer and all the basic code inputted into his github software. When going to change my coding i tried to add all the coding i could see and it worked.
-At first i tried to copy the teacher then after getting the hang of it i started writing the blog by myself.</td>
+    <td>When we started to get on our computers we realised that the monitors were not working.We waited for about 10 minutes but they still didn't work we then had to watch mr keen show us what we were meant to do on the whiteboard.We the sort of drifted away and started to talk about different subject.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <td>Little Johnny</td>
   </tr>
   <tr>
-    <td>I often get distracted very easily and need to work on that habit. I get distracted because i haven't got the 100% focus i could have. If someone asks me for help or to do something i would do it because i think i am helping them but they are not learning themselves.</td>
+    <td>Mr keen told us that nowadays kids think that they can get away with everything.Most of the class disagreed but we soon realised that what he said was right and he gave us an example.He said that if a boy was meant to have a race and didnt prepare.In the race if he stops halfway the teachers sooth his nerves and say he done really well.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <td>Motivation</td>
   </tr>
   <tr>
-    <td>Looking back on the lesson i think I could've changed the way I acted and stopped helping people as much. If someone asked me for help i would say they aren't going to learn if someone else does it for them. I would change the fact that i ask too many questions and learn to pick things out myself which don't look quite right or in the wrong place and be more independent
+    <td>In theory little johnny didn't do well as he did not prepare and he didn't finish the race.However some schools still believe that everyone should get a prize.This degrades the winners confidence as he discovers that even if he comes first he will still get the same prize as everybody else.
 </td>
   </tr>
 </table>
