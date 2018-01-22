@@ -147,7 +147,7 @@ padding: 10px;
 }	
 
 th {
-color: $white;
+color: #ffff00;
 background: #233237;
 height:50px;
 vertical-align: middle;
@@ -168,11 +168,11 @@ vertical-align: middle;
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: #ffff00;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: #ffff00;
   background: $lightGray;
 }
 
@@ -238,7 +238,7 @@ vertical-align: middle;
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #ffff00;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
